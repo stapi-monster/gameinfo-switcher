@@ -1,7 +1,7 @@
 # gameinfo-switcher
 Программа для быстрого изменения файла gameinfo.gi
 
-1 - Game
-2 - Workshop
+- 1 - Game
+- 2 - Workshop
 
-https://raw.githubusercontent.com/stapi-monster/gameinfo-switcher/refs/heads/main/img.jpg
+![img](https://raw.githubusercontent.com/stapi-monster/gameinfo-switcher/refs/heads/main/img.jpg)
