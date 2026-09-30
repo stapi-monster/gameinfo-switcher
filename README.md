@@ -3,3 +3,5 @@
 
 1 - Game
 2 - Workshop
+
+https://raw.githubusercontent.com/stapi-monster/gameinfo-switcher/refs/heads/main/img.jpg
